@@ -1,0 +1,18 @@
+RESULTADOS — ORDENACAO E JUMP SEARCH
+
+Rodada: 21/11/2026 20:03:07
+
+================================================================
+  lista_50k.txt  |  50,000 elementos
+================================================================
+  Insertion Sort           22.378 s   lista ordenada: OK
+  Selection Sort           23.072 s   lista ordenada: OK
+  Merge Sort              57.870 ms   lista ordenada: OK
+
+  Jump Search | alvo: 21,348 | salto: piso(raiz de N)
+  Após Insertion Sort média de 100 buscas: 0.009 ms
+  Após Selection Sort média de 100 buscas: 0.008 ms
+  Após Merge Sort     média de 100 buscas: 0.009 ms
+
+  Checagem: as três ordenações e buscas foram concluídas.
+================================================================

@@ -1,0 +1,18 @@
+RESULTADOS — ORDENACAO E JUMP SEARCH
+
+Rodada: 21/11/2026 20:02:48
+
+================================================================
+  lista_10k.txt  |  10,000 elementos
+================================================================
+  Insertion Sort         767.297 ms   lista ordenada: OK
+  Selection Sort         963.043 ms   lista ordenada: OK
+  Merge Sort               9.688 ms   lista ordenada: OK
+
+  Jump Search | alvo: 415 | salto: piso(raiz de N)
+  Após Insertion Sort média de 100 buscas: 0.001 ms
+  Após Selection Sort média de 100 buscas: 0.001 ms
+  Após Merge Sort     média de 100 buscas: 0.001 ms
+
+  Checagem: as três ordenações e buscas foram concluídas.
+================================================================
